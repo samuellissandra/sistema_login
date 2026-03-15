@@ -3,6 +3,8 @@ import os
 import bcrypt
 from datetime import datetime
 
+# mae 
+
 # Arquivo onde os dados dos usuários serão salvos
 ARQUIVO = '/home/samuel/projects/sistema_login/usuarios.json'
 
